@@ -1,2 +1,4 @@
-# 6Einstein
-The website of 6 - Einstein.
+# ABOUT
+  This is the core of the website, 6Einstein.tk
+# Lol
+  Lol
